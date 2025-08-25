@@ -151,9 +151,9 @@
   .navbar-scrolled {
     @apply bg-background/80 backdrop-blur-lg border border-border/20;
     box-shadow: 0 4px 20px -4px rgba(97, 129, 255, 0.15);
-    margin:2.5rem 5rem;
+    margin:2rem 4rem;
     border-radius: 1rem;
-    width: calc(100% - 10rem);
+    width: calc(100% - 8rem);
   }
 
   .navbar-scrolled .container-max {
