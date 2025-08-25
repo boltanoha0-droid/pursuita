@@ -143,6 +143,10 @@
     animation: fadeInUp 0.8s ease-out forwards;
   }
 
+  .animate-pulse {
+    animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+  }
+
   /* Navbar Styles */
   .navbar-scrolled {
     @apply bg-background/80 backdrop-blur-lg border border-border/20;
@@ -218,6 +222,15 @@
   100% {
     opacity: 1;
     transform: translateY(0);
+  }
+}
+
+@keyframes pulse {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: .5;
   }
 }
 
