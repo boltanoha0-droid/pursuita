@@ -29,7 +29,7 @@ const PricingSection = () => {
   };
 
   return (
-    <section className="section-padding" style={{ background: 'linear-gradient(135deg, #ff6b6b 0%, #ee5a24 100%)' }}>
+    <section className="section-padding" style={{ background: 'linear-gradient(135deg, #e87e5e 0%, #ee5a24 100%)' }}>
       <div className="container-max">
         <div className="text-center space-y-8 scroll-animate">
           <h2 className="text-3xl md:text-5xl font-bold text-white">
