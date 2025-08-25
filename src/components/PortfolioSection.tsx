@@ -14,7 +14,7 @@ const PortfolioSection = () => {
       description: 'موقع عصري لخدمة بطاقات الخصم، بيعرض العروض بطريقة واضحة وبسيط في الحجز عشان يوفّر تجربة استخدام سلسة.',
       image: '/payless.png',
       link: 'https://www.paylesseg.com',
-      category: 'متجر إلكتروني'
+      category: 'صفحة هبوط'
     },
     {
       title: 'Medical Conference',
@@ -35,7 +35,7 @@ const PortfolioSection = () => {
       description: 'موقع تعريفي متكامل يوضح خدمات وإنجازات الشركة في مجال المقاولات، مع تصميم احترافي يبرز هوية العلامة التجارية',
       image: '/elraed.png',
       link: 'https://pursuita-agency.github.io/msaar',
-      category: 'موقع شركة'
+      category: 'موقع مقاولات'
     },
     {
       title: 'أصول',
