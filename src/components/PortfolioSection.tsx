@@ -78,7 +78,7 @@ const PortfolioSection = () => {
     {
       title: 'JUHHD Logo Branding',
       description: 'هوية بصرية راقية تعكس احترافية JUHHD وتفرد علامتها',
-      image: '/juhhd.png',
+      image: 'https://pursuita-agency.github.io/pursuita/assets/images/design/JUHHD_Logo_Branding.png',
       category: 'هوية بصرية'
     },
     {
