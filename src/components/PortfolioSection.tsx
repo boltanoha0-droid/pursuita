@@ -84,7 +84,7 @@ const PortfolioSection = () => {
     {
       title: 'Ahmed El Sallab',
       description: 'تصاميم سوشيال ميديا تعكس فخامة وتميز أحمد السلاب',
-      image: '/salab.png',
+      image: 'https://pursuita-agency.github.io/pursuita/assets/images/design/Ahmed_El_Sallab%20Social_media_posts.png',
       category: 'سوشيال ميديا'
     },
     {
