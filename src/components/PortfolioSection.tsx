@@ -90,7 +90,7 @@ const PortfolioSection = () => {
     {
       title: 'Chefaa',
       description: 'تصميم يعكس هوية شفاء بروح عصرية واحترافية.',
-      image: '/chefaa.png',
+      image: 'https://pursuita-agency.github.io/pursuita/assets/images/design/Chefaa_Project.png',
       category: 'شعارات'
     }
   ];
